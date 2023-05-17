@@ -1,0 +1,33 @@
+_repo: The-traveller-s-oracle-or-maxims-for-locomotion-part-2-of-2-b-Containing-precepts-for-promoti__70726
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jervis, John
+    gutenberg_agent_id: '55888'
+    url: http://www.gutenberg.org/2009/agents/55888
+  - agent_name: Kitchiner, William
+    alias: Kitchiner, W. (William)
+    deathdate: 1827
+    gutenberg_agent_id: '33482'
+    url: http://www.gutenberg.org/2009/agents/33482
+description: ''
+gutenberg_issued: '2023-05-09'
+identifiers:
+  gutenberg: '70726'
+language: en
+pgterms:marc905: 20080921111302kitchiner
+pgterms:marc906: '1827'
+pgterms:marc907: GB
+production_note: Julia Miller, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aUnited Kingdom :$bHenry Colburn, $c1827.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The traveller''s oracle; or, maxims for locomotion, part 2 (of 2) : $b Containing
+  precepts for promoting the pleasures and hints for preserving the health of travellers,
+  2nd. ed.'
+url: http://www.gutenberg.org/ebooks/70726
